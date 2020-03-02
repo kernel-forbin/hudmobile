@@ -41,7 +41,7 @@
   background-color: white;
 }
 .ready{
-  font-size: 14pt;
+  font-size: 12pt;
 }
 .pb{
   width:45%;
@@ -225,7 +225,7 @@ body {
   font-family: 'Open Sans';
   color: hsl(192, 100%, 9%);
   width: 400px;
-  margin-top: 0;
+  margin: 0;
   Font-size: 16px;
   align-items: center;
   padding: 0;
